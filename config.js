@@ -1,5 +1,5 @@
 const config = {
-  token: "ODg1MjU3NTMwNDc1OTcwNjIw.YTkaUg.NIzG79gCoZZAhK6mfTCYtHI3FF4",
+  token: "your-bot-token",
   defaultSettings: {
     prefix: ">",
   },
