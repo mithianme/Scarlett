@@ -1,12 +1,5 @@
 const chalk = require("chalk")
 
-const categoriesIDS = [
-  "884721263292076052", //sex
-  "884721390064914442", //oral
-  "884721503113977886", //lesbian
-  "884726282577932289", //genres
-]
-
 module.exports = async (client, message) => {
   if (message.author.bot) return;
 
